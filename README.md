@@ -5,8 +5,8 @@ I'm french-paraguayan and I live in Paris.
 
 ## About me
 
-- 🌱 I'm currently learning Web Dev @ Le Wagon 🚃
-- 🔭 I'm currently working on this page
+- 🌱 Newbie Web Dev certified by Le Wagon 🚃
+- 🔭 Currently working on this page
 - 🏎 I'm interested in Formula 1, Football and PC Games like LoL, WoW and Warframe.
 
 <!--
